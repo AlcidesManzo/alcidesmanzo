@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there! 👋 I’m Alcides Manzo, a sophomore at MIT double majoring in Electrical Engineering & Computer Science (6-5) and Mathematics (18).
 
-<!--
-**AlcidesManzo/alcidesmanzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	•	🔭 I’m currently working on:
+Building SummerQuest, a full-stack platform that helps high school students discover and compare academic summer programs. It uses React, Node.js, Express, and MySQL, with features like AI-powered program scraping and personalized recommendations. I’m also developing a website for my fraternity, Zeta Psi, to improve member communication and event management.
 
-Here are some ideas to get you started:
+	•	🌱 I’m currently learning:
+Advanced React concepts, backend best practices with Express.js and MySQL, authentication flows including JWT and OAuth, and algorithms from MIT’s 6.1210 Introduction to Algorithms course.
+For electrical engineering, I’m expanding into C++ and C for embedded systems, and Altium Designer for PCB design and circuit development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	•	👯 I’m looking to collaborate on:
+Web applications, data-driven projects, and AI-powered tools — especially those that combine backend engineering, frontend UI/UX, and machine learning for real-world impact. I’m also interested in hardware-software integration projects.
+
+	•	📫 How to reach me:
+Email • LinkedIn • GitHub DMs
+
