@@ -3,6 +3,8 @@ Hi there! 👋 I’m Alcides Manzo, a sophomore at MIT double majoring in Electr
 🔭 I’m currently working on:
 Building SummerQuest, a full-stack platform that helps high school students discover and compare academic summer programs. It uses React, Node.js, Express, and MySQL, with features like AI-powered program scraping and personalized recommendations. I’m also developing a website for my fraternity, Zeta Psi, to improve member communication and event management.
 
+![Summer_Quest_Image](summerquest_sc.png)
+
 🌱 I’m currently learning:
 Advanced React concepts, backend best practices with Express.js and MySQL, authentication flows including JWT and OAuth, and algorithms from MIT’s 6.1210 Introduction to Algorithms course.
 For electrical engineering, I’m expanding into C++ and C for embedded systems, and Altium Designer for PCB design and circuit development.
