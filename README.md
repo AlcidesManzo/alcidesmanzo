@@ -6,11 +6,10 @@ Building SummerQuest, a full-stack platform that helps high school students disc
 ![Summer_Quest_Image](summerquest_sc.png)
 
 🌱 I’m currently learning:
-Advanced React concepts, backend best practices with Express.js and MySQL, authentication flows including JWT and OAuth, and algorithms from MIT’s 6.1210 Introduction to Algorithms course.
-For electrical engineering, I’m expanding into C++ and C for embedded systems, and Altium Designer for PCB design and circuit development.
+Advanced React concepts, backend best practices with Express.js and MySQL, authentication flows including JWT and OAuth. For electrical engineering, I’m expanding into C++ and C for embedded systems, and Altium Designer for PCB design and circuit development.
 
 👯 I’m looking to collaborate on:
-Web applications, data-driven projects, and AI-powered tools — especially those that combine backend engineering, frontend UI/UX, and machine learning for real-world impact. I’m also interested in hardware-software integration projects.
+Web applications, data-driven projects, and AI-powered tools — especially those that combine backend engineering and machine learning for real-world impact. I’m also interested in hardware-software integration projects.
 
 📫 How to reach me:
 Email • LinkedIn • GitHub DMs
